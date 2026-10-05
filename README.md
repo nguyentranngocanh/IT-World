@@ -1,7 +1,7 @@
 # 🚀 IT WORLD - Developer Community & Real-time Platform
 
 > **Ứng dụng Mạng xã hội Công nghệ & Nhắn tin thời gian thực dành riêng cho cộng đồng Lập trình viên IT.**  
-> Dự án môn học Lập trình Mạng / Java Nâng cao • Tác giả: **Nguyễn Trần Ngọc Ánh (24ITB012)**
+> Dự án môn học Lập trình Mạng / Java Nâng cao • Tác giả: **Nguyễn Trần Ngọc Anh (24ITB012)**
 
 ---
 
@@ -122,7 +122,7 @@
 ---
 
 ## 🤝 Tác giả & Bản quyền
-- **Họ và tên:** Nguyễn Trần Ngọc Ánh
+- **Họ và tên:** Nguyễn Trần Ngọc Anh
 - **Mã sinh viên:** 24ITB012
 - **Trường:** Đại học Công nghệ Thông tin & Truyền thông Việt - Hàn (VKU), Đại học Đà Nẵng
 - Dự án phục vụ mục đích học tập và nghiên cứu.
