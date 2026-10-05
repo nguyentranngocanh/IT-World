@@ -1,0 +1,18 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Build / OS ###
+bin/
+.DS_Store
+Thumbs.db
+
+### Logs & Temp files ###
+*.log
+.junie/
+
+### Test / Received P2P Files ###
+NhanDuoc_*
